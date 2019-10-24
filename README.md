@@ -1,0 +1,3 @@
+# InternationalizationOfWeb
+
+The World Wide Web was invented in 1989 by Tim Berners-Lee, who wrote the first Web browser, Web server, and Web page, as well as the first specifications for HTML, HTTP, and URIs. The Web and its technologies are tools that billions of people all over the world use as a central infrastructure for information. The prevalence of the Web today is closely tied to the spread of the Web across geographical and national borders and its usage as an international system, highlighting the importance of internationalization in enabling the Web to live up to its World Wide quality. This paper will explore how Web technologies including HTML, HTTP, URIs and other tools meet or don't meet the requirements for people around the world to use the Web.
